@@ -1,7 +1,3 @@
-Below is a sample README file for the given task:
-
----
-
 # React Native XML Form Renderer
 
 This React Native application allows users to render forms based on XML input. It offers functionalities to display a form from a predefined XML file and to present a form based on user-provided XML input.
